@@ -1,0 +1,9 @@
+torch>=2.0.0
+torch_geometric>=2.4.0
+torch_scatter
+torch_sparse
+rdkit
+matplotlib
+tqdm
+scikit-learn
+numpy
