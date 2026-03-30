@@ -1,4 +1,4 @@
-# MolGraph: Quantum-Chemical Property Prediction with GNNs
+# Molecular Graph Property Prediction using GNNs
 
 Predicts the **HOMO-LUMO gap** of small organic molecules using a
 **Message Passing Neural Network (MPNN)** trained on the QM9 quantum-chemistry dataset.
